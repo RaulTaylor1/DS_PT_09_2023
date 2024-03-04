@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/c7ba3d48e8f04412bf95fdc5fc513820/artifacts
+end_time: 1709324723683
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: c7ba3d48e8f04412bf95fdc5fc513820
+run_name: Random Forest Regressor
+run_uuid: c7ba3d48e8f04412bf95fdc5fc513820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324723426
+status: 3
+tags: []
+user_id: taylo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/3077112b6b8c4d87b64388f57f8d985d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 3077112b6b8c4d87b64388f57f8d985d
+run_name: Session Initialized c3bc
+run_uuid: 3077112b6b8c4d87b64388f57f8d985d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324692188
+status: 1
+tags: []
+user_id: taylo

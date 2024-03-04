@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/cc640133d68744ea926153b6d79b9bf5/artifacts
+end_time: 1709324500620
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: cc640133d68744ea926153b6d79b9bf5
+run_name: K Neighbors Regressor
+run_uuid: cc640133d68744ea926153b6d79b9bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324500378
+status: 3
+tags: []
+user_id: taylo

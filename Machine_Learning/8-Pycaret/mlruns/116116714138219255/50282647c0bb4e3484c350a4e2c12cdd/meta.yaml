@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/50282647c0bb4e3484c350a4e2c12cdd/artifacts
+end_time: 1709324497757
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 50282647c0bb4e3484c350a4e2c12cdd
+run_name: Light Gradient Boosting Machine
+run_uuid: 50282647c0bb4e3484c350a4e2c12cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324497490
+status: 3
+tags: []
+user_id: taylo

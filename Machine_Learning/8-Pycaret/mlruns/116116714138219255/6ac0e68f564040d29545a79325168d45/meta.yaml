@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/6ac0e68f564040d29545a79325168d45/artifacts
+end_time: 1709324727191
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 6ac0e68f564040d29545a79325168d45
+run_name: Elastic Net
+run_uuid: 6ac0e68f564040d29545a79325168d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324726996
+status: 3
+tags: []
+user_id: taylo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/1ac582e2a54847a5a78668afdf4b6ad3/artifacts
+end_time: 1709324722624
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 1ac582e2a54847a5a78668afdf4b6ad3
+run_name: Gradient Boosting Regressor
+run_uuid: 1ac582e2a54847a5a78668afdf4b6ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324722358
+status: 3
+tags: []
+user_id: taylo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/d8d74676c2d149f1bf88cb8423c7fe3a/artifacts
+end_time: 1709324504905
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: d8d74676c2d149f1bf88cb8423c7fe3a
+run_name: Least Angle Regression
+run_uuid: d8d74676c2d149f1bf88cb8423c7fe3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324504640
+status: 3
+tags: []
+user_id: taylo

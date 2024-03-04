@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/dec6c066b7bd4d279a165df16f229a59/artifacts
+end_time: 1709324720861
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: dec6c066b7bd4d279a165df16f229a59
+run_name: CatBoost Regressor
+run_uuid: dec6c066b7bd4d279a165df16f229a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324720060
+status: 3
+tags: []
+user_id: taylo

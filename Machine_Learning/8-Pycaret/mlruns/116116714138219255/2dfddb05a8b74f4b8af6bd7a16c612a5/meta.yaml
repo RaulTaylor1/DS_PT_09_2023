@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/2dfddb05a8b74f4b8af6bd7a16c612a5/artifacts
+end_time: 1709324500194
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 2dfddb05a8b74f4b8af6bd7a16c612a5
+run_name: AdaBoost Regressor
+run_uuid: 2dfddb05a8b74f4b8af6bd7a16c612a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324499970
+status: 3
+tags: []
+user_id: taylo

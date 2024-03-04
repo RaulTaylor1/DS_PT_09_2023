@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/e216844d6800466990e3dd3b99bd99c7/artifacts
+end_time: 1709324501453
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: e216844d6800466990e3dd3b99bd99c7
+run_name: Lasso Least Angle Regression
+run_uuid: e216844d6800466990e3dd3b99bd99c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324501196
+status: 3
+tags: []
+user_id: taylo

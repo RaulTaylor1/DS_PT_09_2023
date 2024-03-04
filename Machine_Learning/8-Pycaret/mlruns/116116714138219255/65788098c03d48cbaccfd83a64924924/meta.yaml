@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/65788098c03d48cbaccfd83a64924924/artifacts
+end_time: 1709324725785
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 65788098c03d48cbaccfd83a64924924
+run_name: Orthogonal Matching Pursuit
+run_uuid: 65788098c03d48cbaccfd83a64924924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324725561
+status: 3
+tags: []
+user_id: taylo

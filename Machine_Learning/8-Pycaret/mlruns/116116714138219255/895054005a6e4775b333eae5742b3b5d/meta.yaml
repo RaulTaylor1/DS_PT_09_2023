@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/895054005a6e4775b333eae5742b3b5d/artifacts
+end_time: 1709324722070
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 895054005a6e4775b333eae5742b3b5d
+run_name: Extreme Gradient Boosting
+run_uuid: 895054005a6e4775b333eae5742b3b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324721774
+status: 3
+tags: []
+user_id: taylo

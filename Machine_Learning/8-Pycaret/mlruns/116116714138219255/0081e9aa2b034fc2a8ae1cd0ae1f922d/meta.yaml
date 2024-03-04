@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/taylo/Documents/GitHub/DS_PT_09_2023/Machine_Learning/8-Pycaret/mlruns/116116714138219255/0081e9aa2b034fc2a8ae1cd0ae1f922d/artifacts
+end_time: 1709324504432
+entry_point_name: ''
+experiment_id: '116116714138219255'
+lifecycle_stage: active
+run_id: 0081e9aa2b034fc2a8ae1cd0ae1f922d
+run_name: Linear Regression
+run_uuid: 0081e9aa2b034fc2a8ae1cd0ae1f922d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709324504192
+status: 3
+tags: []
+user_id: taylo
