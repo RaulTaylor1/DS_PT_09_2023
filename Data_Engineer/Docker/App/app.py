@@ -15,10 +15,6 @@ app = Flask(__name__)
 def home():
     return '<h1>APP FLASK IRIS<h1>'
 
-@app.route('/<name>', methods=['GET'])
-def home():
-    return '<h1>APP FLASK IRIS<h1>'
-
 @app.route('/predict', methods=['POST'])
 def predict():
 
@@ -27,4 +23,4 @@ def predict():
 
 
 if __name__ == '__main':
-    app.run(debug=True)
+    app.run(host='0.0.0.00', port=5000)
