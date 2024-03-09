@@ -1,30 +1,44 @@
-# MOdelo de ML KNN con los datos de Iris sin gridsearch
+# Crear un modelo de ML KNN con los datos de Iris sin gridsearch
 
 from sklearn.datasets import load_iris
-from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import pickle
+import os
+
+os.chdir(os.path.dirname(__file__))
 
 iris = load_iris()
 
-print(iris.keys())
+dic_target = {i: name for i, name in enumerate(iris['target_names'])}
 
-print(iris)
+# X = iris.data
+# y = iris.target
 
-X = iris.data
-y = iris.target
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=23)
+# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=42)
 
-knn = KNeighborsClassifier(n_neighbors=5)
+# KNN = KNeighborsClassifier()
 
-knn.fit(X_train,y_train)
+# KNN.fit(X_train, y_train)
 
-prediction = knn.predict(X_test)
-print(prediction)
+# y_train_pred = KNN.predict(X_train)
 
-knn.score(X_train, y_train)
+# y_test_pred = KNN.predict(X_test)
 
-with open('Data_Engineer\Flask\Practica\modelo.pkl', 'wb') as archivo:
-    pickle.dump(knn, archivo)
+# print(classification_report(y_train, y_train_pred)) 97%
+# print('---'*200)
+# print(classification_report(y_test, y_test_pred)) 100%
+
+
+# with open('model.pkl', 'wb') as f:
+#     pickle.dump(KNN, f)
+
+# INFERENCIA
+
+model = pickle.load(open('model.pkl', 'rb'))
+
+muestra = [4,8,5,3]
+
+print(dic_target[model.predict([muestra])[0]])
